@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Environment files
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Editor directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# SQLite database
+backend/instance/*.db
+
+# Local files
+*.local
